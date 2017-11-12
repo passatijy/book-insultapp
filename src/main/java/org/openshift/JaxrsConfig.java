@@ -4,5 +4,6 @@ import javax.ws.rs.ApplicentionPath;
 import javax.ws.rs.core.Application;
 
 @ApplicationPath("/api")
-public class JaxrsConfig extentds Application{
+public class JaxrsConfig extends Application{
+	
 }
